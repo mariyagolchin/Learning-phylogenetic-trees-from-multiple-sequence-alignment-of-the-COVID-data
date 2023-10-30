@@ -6,15 +6,6 @@ The objective of this project is to investigate the evolutionary history of a vi
 <a name="readme-top"></a>
 
 
-
-<!-- PROJECT LOGO -->
-  <p align="left">
-    Department of Bioinformatics, IBB, University of Tehran
-    <br />
-  </p>
-</div>
-
-
 <!-- ABOUT THE PROJECT -->
 ## Data
 The dataset is a portion of the GISAID dataset, comprising of SARS-CoV-2 strains collected from humans in various cities across Iran between 2021 and 2023. Each student will choose a subset of the data from the table below and study the evolution of a particular COVID-19 strain
