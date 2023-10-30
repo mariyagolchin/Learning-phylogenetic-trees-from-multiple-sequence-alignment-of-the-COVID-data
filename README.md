@@ -1,4 +1,4 @@
-# Learning-phylogenetic-trees-from-multiple-sequence-alignment-of-the-COVID-data
+# Learning phylogenetic trees from multiple sequence alignment of the COVID data
 
 #Objective
 The objective of this project is to investigate the evolutionary history of a virus strain by  performing a phylogenetic analysis. To accomplish this, you will use the "MAFFT" and
