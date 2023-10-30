@@ -25,12 +25,14 @@ in Iran during a designated time period.
 ## Getting Started
 Project steps
 This project will involve the following steps:
-<br> #1. Data preparation
+<br>
+## 1. Data preparation
 <br>I. Download the selected subset of the GISAID dataset.
 <br>II. align the collected dataset using the MAFFT tool and check the MSA for any
 standard format issues, such as duplicate taxon names, invalid characters in taxon
 names, or duplicate sequences.
-<br>#2. Phylogenetic analysis
+<br>
+## 2. Phylogenetic analysis
 <br>I. Estimate the optimal nucleotide substitution model using maximum likelihood or
 Bayesian methods by selecting the model with the lowest AIC or BIC score (you
 may use phangorn package in R).
@@ -42,7 +44,8 @@ substitution model.
 replicates of the dataset and estimate the phylogenetic tree for each replicate.
 <br>VI. Infer bootstrap support for branches in the optimized tree.
 <br>Hint: you may use the RAxML-NG tool for steps II - VI.
-<br>#3. Data visualization
+<br>
+## 3. Data visualization
 Use the phylogenetic tree and bootstrap support values to visualize the evolutionary
 history of the selected strain in Iran. (you may use ggtree package in R)
 Instructions on how to perform MSA and the initial steps of using RAxML-NG have been given
