@@ -37,32 +37,31 @@ in Iran during a designated time period.
 ## Getting Started
 Project steps
 This project will involve the following steps:
-1. Data preparation
-I. Download the selected subset of the GISAID dataset.
-II. align the collected dataset using the MAFFT tool and check the MSA for any
+<br> 1. Data preparation
+<br>I. Download the selected subset of the GISAID dataset.
+<br>II. align the collected dataset using the MAFFT tool and check the MSA for any
 standard format issues, such as duplicate taxon names, invalid characters in taxon
 names, or duplicate sequences.
-2. Phylogenetic analysis
-I. Estimate the optimal nucleotide substitution model using maximum likelihood or
+<br>2. Phylogenetic analysis
+<br>I. Estimate the optimal nucleotide substitution model using maximum likelihood or
 Bayesian methods by selecting the model with the lowest AIC or BIC score (you
 may use phangorn package in R).
-II. Calculate the pairwise distance between the sequences in the alignment.
-III. Generate a first tree topology based on pairwise distances.
-IV. Optimize the phylogenetic tree topology, branch lengths, and nucleotide
+<br>II. Calculate the pairwise distance between the sequences in the alignment.
+<br>III. Generate a first tree topology based on pairwise distances.
+<br>IV. Optimize the phylogenetic tree topology, branch lengths, and nucleotide
 substitution model.
-V. To assess the reliability of the phylogenetic tree, generate multiple bootstrap
+<br>V. To assess the reliability of the phylogenetic tree, generate multiple bootstrap
 replicates of the dataset and estimate the phylogenetic tree for each replicate.
-VI. Infer bootstrap support for branches in the optimized tree.
-Hint: you may use the RAxML-NG tool for steps II - VI.
-3. Data visualization
+<br>VI. Infer bootstrap support for branches in the optimized tree.
+<br>Hint: you may use the RAxML-NG tool for steps II - VI.
+<br>3. Data visualization
 Use the phylogenetic tree and bootstrap support values to visualize the evolutionary
 history of the selected strain in Iran. (you may use ggtree package in R)
 Instructions on how to perform MSA and the initial steps of using RAxML-NG have been given
 in phyloTutorial.txt as a guide.
 Important note: The final deliverable for this project will be a report summarizing the findings
 from the analysis, including the optimized phylogenetic tree, bootstrap support values for each
-edge, and any interpretations or analysis of the results. Report all the results in a directory named
-Project3.
+edge, and any interpretations or analysis of the results. Report all the results in a directory named Project3.
 
 
 <!-- CONTACT -->
