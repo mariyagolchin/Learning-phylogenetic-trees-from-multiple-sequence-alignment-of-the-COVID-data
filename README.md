@@ -11,7 +11,7 @@ The objective of this project is to investigate the evolutionary history of a vi
 <br />
 <div align="LEFT">
 
-<h1 align="left">Learning phylogenetic trees from multiple sequence alignment  </h1>
+#<h1 align="left">Learning phylogenetic trees from multiple sequence alignment  </h1>
 
   <p align="left">
     Department of Bioinformatics, IBB, University of Tehran
@@ -25,7 +25,8 @@ The objective of this project is to investigate the evolutionary history of a vi
 <!-- ABOUT THE Contents -->
 ## Project steps
 This project will involve the following steps:
-<a >1. Data preparation </a>
+<br>
+<a > 1. Data preparation </a>
 
 <a >2. Phylogenetic analysis </a>
 
