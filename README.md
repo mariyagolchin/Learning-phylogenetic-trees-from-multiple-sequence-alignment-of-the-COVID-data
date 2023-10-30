@@ -1,6 +1,6 @@
 # Learning phylogenetic trees from multiple sequence alignment of the COVID data
 
-#Objective
+## Objective
 The objective of this project is to investigate the evolutionary history of a virus strain by  performing a phylogenetic analysis. To accomplish this, you will use the "MAFFT" and
 "RAxML-NG" tools to estimate the topology and parameters of the phylogenetic tree using the FASTA file data of Omicron, Delta, or Alpha strain genomes.
 <a name="readme-top"></a>
