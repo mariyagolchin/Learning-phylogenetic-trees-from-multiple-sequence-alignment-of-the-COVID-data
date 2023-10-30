@@ -8,11 +8,6 @@ The objective of this project is to investigate the evolutionary history of a vi
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="LEFT">
-
-#<h1 align="left">Learning phylogenetic trees from multiple sequence alignment  </h1>
-
   <p align="left">
     Department of Bioinformatics, IBB, University of Tehran
     <br />
@@ -68,13 +63,6 @@ Important note: The final deliverable for this project will be a report summariz
 from the analysis, including the optimized phylogenetic tree, bootstrap support values for each
 edge, and any interpretations or analysis of the results. Report all the results in a directory named
 Project3.
-
-### Prerequisites
-
-
-* Normal: SRR17172481 :single end
-* Patient: SRR17172485: single end
-
 
 
 <!-- CONTACT -->
